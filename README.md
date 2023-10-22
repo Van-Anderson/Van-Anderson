@@ -1,6 +1,6 @@
 - Hi, I’m @Van-Anderson
 - I am currently a student at Illinois State University
-- I am working for the School of Information Technology as a course grader
+- I am working for ISU's School of Information Technology as a course grader
 
 <!---
 Van-Anderson/Van-Anderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
