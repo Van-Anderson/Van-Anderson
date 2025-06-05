@@ -1,5 +1,5 @@
 - Hi, I’m @Van-Anderson
-- I am currently looking for work
+
 
 <!---
 Van-Anderson/Van-Anderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
